@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=180&section=header&text=%C4%B0hsan%20Sar%C4%B1y%C4%B1ld%C4%B1z&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Game%20%26%20Web%20Developer&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=160&section=header" width="100%" />
+
+# İhsan Sarıyıldız
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Game+Developer+%F0%9F%8E%AE;Web+Developer+%F0%9F%8C%90;Oyun+ve+Web+Geli%C5%9Ftirici+%F0%9F%9A%80;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" /></a>
 
@@ -71,12 +73,7 @@ I'm a game and web developer based in **Istanbul, Türkiye**. I enjoy turning id
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ihsansariyildiz&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihsansariyildiz&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://streak-stats.demolab.com?user=Ihsansariyildiz&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ihsansariyildiz&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
