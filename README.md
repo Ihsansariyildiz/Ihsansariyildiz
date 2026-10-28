@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm İhsan 👋 / Merhaba, ben İhsan
 
-<!--
-**Ihsansariyildiz/Ihsansariyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EN** — Game and web developer based in Istanbul. I build games in C# and web projects in JavaScript.
 
-Here are some ideas to get you started:
+**TR** — İstanbul'da yaşayan bir oyun ve web geliştiricisiyim. C# ile oyun, JavaScript ile web projeleri geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects / Güncel Projeler
+
+- **Zero-Line** — C# game in development / Geliştirilmekte olan C# oyunu
+- **dune2000-web** — Dune 2000 inspired web project / Dune 2000'den esinlenen web projesi
+- **AcruxForge Dashboard** — Web dashboard / Web paneli
+
+## 🛠️ Tech / Teknolojiler
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## 📫 Contact / İletişim
+
+- GitHub: [@Ihsansariyildiz](https://github.com/Ihsansariyildiz)
